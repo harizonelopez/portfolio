@@ -1,4 +1,4 @@
-# Harison's Portfolio Website
+# Personal Portfolio Website
 
 Welcome to my personal developer portfolio!  
 This is a fully responsive frontend website showcasing my skills, services, and selected backend projects.
